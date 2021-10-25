@@ -5,7 +5,12 @@
 
 I am a MERN Stack web developer who is passionate about making error-free websites with 100% client satisfaction. I am doing so many unique project and also cloning some reputated website like Netflix, Youtube, Instagram and so on. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Coding is not only my profession but also my love. I believe in a quotes of Winston Churchill who says that “I am always ready to learn although I do not always like being taught.”❤❤
 
-Skills: JAVASCRIPT / REACT JS / NODE JS / FLUTTER / PYTHON
+Skills: 
+✅ JAVASCRIPT
+✅ REACT JS
+✅ NODE JS
+✅ FLUTTER
+✅ PYTHON
 
 - 🔭 I’m currently working on Instagram Clone 
 - 🌱 I’m currently learning Python 
@@ -18,14 +23,14 @@ Skills: JAVASCRIPT / REACT JS / NODE JS / FLUTTER / PYTHON
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/ProgrammingBees)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/programmingbees)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/ProgrammingBees&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/programmingbees&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/ProgrammingBees)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/programmingbees)  
 
 ![GitHub metrics](https://metrics.lecoq.io/https://github.com/ProgrammingBees)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/ProgrammingBees)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/programmingbees)  
 
 
