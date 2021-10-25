@@ -18,7 +18,7 @@ Skills: JAVASCRIPT / REACT JS / NODE JS / FLUTTER / PYTHON
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/programmingbees)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/ProgrammingBees)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/ProgrammingBees&show_icons=true&count_private=true)  
 
