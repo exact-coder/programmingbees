@@ -6,7 +6,8 @@
 
 I am a MERN Stack web developer who is passionate about making error-free websites with 100% client satisfaction. I am doing so many unique project and also cloning some reputated website like Netflix, Youtube, Instagram and so on. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Coding is not only my profession but also my love. I believe in a quotes of Winston Churchill who says that “I am always ready to learn although I do not always like being taught.”❤❤
 
-#####Skills: 
+Skills: 
+
 ✅ JAVASCRIPT 
 
 ✅ REACT JS 
