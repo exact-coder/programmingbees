@@ -12,14 +12,16 @@ Skills:
 
 ✅ REACT JS 
 
+✅ PYTHON
+
 ✅ NODE JS 
 
 ✅ FLUTTER 
 
-✅ PYTHON
+
 
 - 🔭 I’m currently working on Programming Bees 
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning Python , JavaScript
 - 👯 I’m looking to collaborate on ProgrammingBees 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: ProgrammingBees[link](https://programmingbees.com) 
