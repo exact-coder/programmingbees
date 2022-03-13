@@ -14,6 +14,8 @@ Skills:
 
 ✅ PYTHON
 
+✅ DJANGO
+
 ✅ NODE JS 
 
 ✅ FLUTTER 
